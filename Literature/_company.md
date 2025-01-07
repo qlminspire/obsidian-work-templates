@@ -7,4 +7,4 @@ tags:
 aliases: []
 ---
 
-<% await tp.file.move("/01-Literature/Company/" + tp.file.title) %>
+<% await tp.file.move("/01-Literature/Companies/" + tp.file.title) %>
